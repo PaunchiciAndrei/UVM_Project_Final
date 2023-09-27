@@ -13,6 +13,8 @@ rtl - This is the DUT(device under test). This module implements an arithmetic u
 tb - The UVM testbench ( agents, interfaces, items, scoreboard, sequencers ...)
 
 VivadoCompile - This script is used to build/simulate a verification enviroment using Vivado TCL console
+
 PrjFileBuilder - This module is used by VivadoCompile.py to build a dependecy tree based on the file includes
+
 regr.py - This imports VivadoCompile
 
