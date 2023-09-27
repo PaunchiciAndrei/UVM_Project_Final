@@ -4,7 +4,9 @@ Final_Project_Capgemini_Paunchici_Andrei
 This is my final project made for the end of Capgemini internship : UVM testing enviroment made from 0 for a aithmetic unit named AFVIP. (Software used for testing : Vivado)
 This project includes :
 
+Verification_Specifications_final_Paunchici_Andrei - word
 
+Test_Plan_final_Paunchici_Andrei - excel
 
 rtl - This is the DUT(device under test). This module implements an arithmetic unit configurable and controllable through APB interface. Supports only Addition and Multiplication operations.
 
